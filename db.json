@@ -167,4 +167,29 @@
           "DataStatus":
           {
             "Spouse":"known",
-            "FirstName":null,"MiddleName":null,"LastNameCurrent":null,"Gender":null,"BirthLocation":null,"DeathLocation":null,"Photo":null,"Prefix":null,"Suffix":null,"Father":null,"Mother":null},"Privacy_IsPrivate":false,"Privacy_IsPublic":false,"Privacy_IsOpen":true,"Privacy_IsAtLeastPublic":true,"Privacy_IsSemiPrivate":false,"Privacy_IsSemiPrivateBio":false,"Father":0,"Mother":0}}},"status":0}]
+            "FirstName":null,
+            "MiddleName":null,
+            "LastNameCurrent":null,
+            "Gender":null,
+            "BirthLocation":null,
+            "DeathLocation":null,
+            "Photo":null,
+            "Prefix":null,
+            "Suffix":null,
+            "Father":null,
+            "Mother":null
+          },
+          "Privacy_IsPrivate":false,
+          "Privacy_IsPublic":false,
+          "Privacy_IsOpen":true,
+          "Privacy_IsAtLeastPublic":true,
+          "Privacy_IsSemiPrivate":false,
+          "Privacy_IsSemiPrivateBio":false,
+          "Father":0,
+          "Mother":0
+        }
+      }
+    },
+    "status":0
+  }
+]
